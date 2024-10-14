@@ -43,6 +43,12 @@
     <None Include="ClassDiagram2.cd" />
     <None Include="ClassDiagram3.cd" />
     <None Include="ClassDiagram4.cd" />
+    <None Include="..\面向对象程序过程考核题目2024.docx">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\面向对象程序设计过程学习考核报告-2024.docx">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">

@@ -136,6 +136,8 @@
     <ClCompile Include="阶段考核.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\面向对象程序设计过程学习考核报告-2024.docx" />
+    <None Include="..\面向对象程序过程考核题目2024.docx" />
     <None Include="ClassDiagram.cd" />
     <None Include="ClassDiagram1.cd" />
     <None Include="ClassDiagram2.cd" />
