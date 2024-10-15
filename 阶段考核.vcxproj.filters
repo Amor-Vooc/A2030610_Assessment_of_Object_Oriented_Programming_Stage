@@ -49,6 +49,9 @@
     <None Include="..\面向对象程序设计过程学习考核报告-2024.docx">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="README.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">
@@ -69,5 +72,10 @@
     <ClInclude Include="President.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
